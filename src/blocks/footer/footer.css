@@ -1,5 +1,6 @@
 footer {
   background-color: yellow;
+  display: flex;
 }
 
 body {
